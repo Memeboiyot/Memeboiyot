@@ -10,7 +10,7 @@ I do funny scripting
 --]]
 
 [[--
-[Discord Server]: https://discord.gg/syntaxontop or https://discord.gg/ShtNsu9GtX 
+![Discord Server](https://discord.gg/syntaxontop )
 --]]
 
 
