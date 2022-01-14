@@ -16,9 +16,9 @@ Discord Server:https://discord.gg/syntaxontop
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your_GitHub_username>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<Memeboiyot>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![MemeBoiYot GitHub stats](https://github-readme-stats.vercel.app/api?username=<your_GitHub_username>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![MemeBoiYot GitHub stats](https://github-readme-stats.vercel.app/api?username=<Memeboiyot>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
