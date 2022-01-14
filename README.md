@@ -10,8 +10,9 @@ I do funny scripting
 --]]
 
 [[--
-![Discord Server](https://discord.gg/syntaxontop )
+Discord Server:https://discord.gg/syntaxontop
 --]]
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![follower](https://img.shields.io/github/followers/Memeboiyot?style=social)
